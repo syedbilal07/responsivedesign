@@ -1,0 +1,15 @@
+body
+{
+	background-image:url("Mclaren 2.jpg");
+	background-repeat: no-repeat;
+	height:auto;
+	max-width:100%;
+}
+@media only screen and (min-width:400px)
+{
+	body
+	{
+		background-image:url("Mclaren 1.jpg");
+		background-repeat: no-repeat;
+	}
+}
